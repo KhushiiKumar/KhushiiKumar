@@ -4,7 +4,7 @@
 
 <h1 align="center">Hi 👋, I'm Khushi Kumar</h1>
 <h4 align="center">A software developer focused on building new projects, interfaces and experiences 💻✨</h4>
-<img align="right" alt="Coding" width="550" src="https://cdn.dribbble.com/users/70900/screenshots/2957833/programmers-day-banner.gif">
+<img align="right" alt="Coding" width="500" src="https://cdn.dribbble.com/users/70900/screenshots/2957833/programmers-day-banner.gif">
 <br>
 
 🌱 I’m currently learning **Data Structures and Algorithms.**
